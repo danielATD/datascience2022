@@ -1,0 +1,7 @@
+Pandas
+Dataframe
+    Un dataframe es un arreglo multidimensional que tiene filas y columnas. Básicamente una tabla.
+    Es una estructura de datos que organiza la información en manera de tabla.
+
+    Matriz: Arreglo de arreglo
+    Dataframe: Serie de series

@@ -1,0 +1,20 @@
+Exploratory Data Analysis
+
+Integrantes: Individual
+Fecha de entrega: 19-20 de mayo
+Compartir repositorio de GitHub
+    
+    Detalles del proyecto:
+    Se nos entregaran un conjunto de datos, se requiere:
+    -Limpieza en los datos
+    -Organizar y filtrarlos
+    -Encontrar algunas estadísticas
+    -Graficar las estadísticas
+
+    OPCIONES DE DATA SETS
+    -Movies https://www.kaggle.com/datasets/danielgrijalvas/movies ; https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+    -Google Job Skills
+
+    Plantearse 5 preguntas:_
+    Por ejemplo: ¿Qué habilidad es la más requerida en google?
+    
