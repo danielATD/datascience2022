@@ -12,3 +12,4 @@ Estimates of Location
 
 Los cientificos de datos usan métrica. Nosotros transformamos la estadística a nuestra función.
 
+
